@@ -112,6 +112,7 @@ const About = () => {
                 <p style={{
                     width: "50%", textAlign: "center",
                 }}>
+
                     I am Innocent Chijioke uchenye, but you
                     can call me cj-hansom. I am a confident, highly
                     organized, and dedicated individual who has very good communication
